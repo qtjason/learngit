@@ -1,0 +1,14 @@
+1:用
+
+git log --graph --pretty=format:'%h -%d %s (%cr)' --abbrev-commit --reflog
+你会看到reset后的历史，(HEAD -> master)指向的是当前的版本
+
+* b953931 - vwx (#2180) (1 weeks ago)
+* 946d053 - stu (#2178) (2 weeks ago)
+* bad5188 - pqr (#2179) (2 weeks ago)
+* e5970a5 - (HEAD -> master) mno (#2183) (3 weeks ago)
+* 1b7c09a - jkl (#2190) (3 weeks ago)
+* 47d28ee - ghi (#2189) (3 weeks ago)
+* ebe8f55 - def (#2187) (3 weeks ago)
+* 7a16406 - abc (#2186) (3 weeks ago)
+2:手绘草图软件:APPLE KEYNOTE
